@@ -1,6 +1,6 @@
 # About me
 
-**Reina-Lingle/reina-lingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Reina-Lingle**
 
 - 🔭 I’m currently working on gaining new skills in GitHub and Google Cloud
 - 🌱 I’m currently learning SQL in BigQuery and how to write Markdown Syntax so I can be a *powerful* contributor in future Hackathons
